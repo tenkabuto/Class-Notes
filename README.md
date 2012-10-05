@@ -4,7 +4,8 @@ A young, lightweight HTML and CSS template who aspires to attain the elegance of
 
 Both Mama and Papa are worried about Lamb, as the days've gotten shorter and the weather colder. Mama's working on some coats for Lamb while Papa is toughening him up.
 
-## Branches
-* MamasCoats ("Mama's Coats") deals with style, particularly CSS. (Think of 'Coats' as themes.)
-	* *Do lambs actually wear coats?* [Yes they do](http://goodshepherdlambcoats.com/lambcoats/lambcoats.htm)!
-* PapasTraining ("Papa's Training") deals with structure, particularly the integrity of Lamb's HTML.
+## Metaphor Extension
+* Mama deals with Lamb's style, particularly his CSS.
+	* Her 'coats' are to be thought of as themes.
+		* *Do lambs actually wear coats?* [Yes they do](http://goodshepherdlambcoats.com/lambcoats/lambcoats.htm)!
+* Papa deals with Lamb's structural integrity.
