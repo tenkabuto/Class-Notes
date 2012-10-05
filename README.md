@@ -6,4 +6,5 @@ Both Mama and Papa are worried about Lamb, as the days've gotten shorter and the
 
 ## Branches
 * "Mama's Coats" deals with style, particularly CSS. (Think of 'Coats' as themes.)
+	* *Do lambs actually wear coats?* [Yes they do](http://goodshepherdlambcoats.com/lambcoats/lambcoats.htm)!
 * "Papa's Training" deals with structure, particularly the integrity of Lamb's HTML.
