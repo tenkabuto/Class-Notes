@@ -31,6 +31,9 @@
                   "title": "Non-Renewable",
                   "id": 14
                 }
+              },
+              "attr": {
+                "style": {}
               }
             }
           }
@@ -50,6 +53,23 @@
             "1": {
               "title": "Emissions",
               "id": 15
+            }
+          }
+        },
+        "12": {
+          "title": "Considerations",
+          "id": 16,
+          "ideas": {
+            "1": {
+              "title": "PPC",
+              "id": 17,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "A graphical representation of how varying combinations of things that one may produce given a set of resources."
+                },
+                "style": {}
+              }
             }
           }
         }
