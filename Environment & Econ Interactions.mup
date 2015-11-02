@@ -1,0 +1,96 @@
+{
+  "title": "Environment & Econ Interactions",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "10": {
+      "title": "Economy\n",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Input",
+          "id": 8,
+          "attr": {
+            "style": {},
+            "position": [
+              103,
+              -191,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Natural Resources",
+              "id": 12,
+              "ideas": {
+                "1": {
+                  "title": "Renewable",
+                  "id": 13
+                },
+                "2": {
+                  "title": "Non-Renewable",
+                  "id": 14
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "title": "Waste",
+          "id": 9,
+          "attr": {
+            "style": {},
+            "position": [
+              5,
+              133,
+              2
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Emissions",
+              "id": 15
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-10": {
+      "title": "Environ",
+      "id": 11,
+      "attr": {
+        "position": [
+          119,
+          -101,
+          1
+        ],
+        "style": {}
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 11,
+      "ideaIdTo": 8,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 11,
+      "ideaIdTo": 9,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
+}
